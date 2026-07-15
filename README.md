@@ -1,26 +1,70 @@
-### Hola, soy Diego 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Desarrollador backend en formación | Java · Spring Boot · .NET
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola 👋, soy Diego</h1></summary>
+  </ul>
+</div>
 
-<br>
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Desarrollador backend en formación</h2></summary>
+  </ul>
+</div>
 
-<br>
+- 🔭 Actualmente trabajando con **Java, Spring Boot, .NET, SQL Server**
 
-📫 Abierto a prácticas en desarrollo web
+- 🌱 Aprendiendo **React, Git avanzado e inglés técnico**
 
-<br>
+- 💬 Preguntame sobre **Java, Spring Boot, .NET, arquitectura en capas**
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegozn-beep&show_icons=true&theme=radical)
+- 📫 Abierto a **prácticas en desarrollo web**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diegozn-beep&theme=radical)
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegozn-beep&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 racha de commits" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diegozn-beep&theme=dark&hide_border=false" />
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozn-beep&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
 
-### Proyectos destacados
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-**[AppCine](https://github.com/diegozn-beep/appcine)** — API REST de gestión de películas con Java
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,mysql,js,git,react,html,css,vscode&perline=10" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contacto 🤝</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://www.instagram.com/diegoo_2004fx/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+</p>
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=diegozn-beep&icon=3&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
