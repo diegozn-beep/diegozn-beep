@@ -1,4 +1,3 @@
-<img align="right" src="https://github.com/diegozn-beep.png" width="30%">
 
 <h1>
   Hola, soy Diego 
