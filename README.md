@@ -11,7 +11,8 @@
 </div>
 
 <p>
-Desarrollador backend en formación, con foco en Java Spring Boot y .NET.
+Desarrollador backend en formación, con foco en Java Spring Boot y .NET. 
+Actualmente en mi último ciclo de Computación e Informática.
 </p>
 
 - 👨‍💻 Actualmente trabajando con Java, Spring Boot y .NET
@@ -50,11 +51,16 @@ Desarrollador backend en formación, con foco en Java Spring Boot y .NET.
 #### 🔧 Herramientas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
+
+<p align="center">
+  <img title="🔥 racha de commits" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diegozn-beep&theme=dark&hide_border=false" />
+</p>
 
 <a href="https://komarev.com/ghpvc/?username=diegozn-beep&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=diegozn-beep&style=for-the-badge">
