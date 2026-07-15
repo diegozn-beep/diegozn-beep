@@ -18,20 +18,8 @@
 - 📫 Abierto a **prácticas en desarrollo web**
 
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegozn-beep&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
   <img title="🔥 racha de commits" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diegozn-beep&theme=dark&hide_border=false" />
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozn-beep&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
 </p>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tecnologías 👨🏻‍💻</h2></summary>
