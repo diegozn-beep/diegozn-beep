@@ -2,7 +2,28 @@
 
 <br>
 
-<img align="right" src="https://i.pinimg.com/736x/46/0a/bd/460abdd5d612f6c36cab264c0b26abbf.jpg" width="28%">
+<table>
+<tr>
+<td width="65%">
+
+<div id="user-content-toc">
+  <ul align="center" style="list-style:none">
+    <summary><h1 style="display:inline-block; border-bottom:none">Hola, soy Diego <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1></summary>
+  </ul>
+</div>
+
+<p>
+Backend dev en formación | Java · Spring Boot · .NET | Buscando prácticas
+</p>
+
+</td>
+<td width="35%">
+
+<img src="https://i.pinimg.com/736x/46/0a/bd/460abdd5d612f6c36cab264c0b26abbf.jpg" width="100%">
+
+</td>
+</tr>
+</table>
 
 <div id="user-content-toc">
   <ul align="center" style="list-style:none">
