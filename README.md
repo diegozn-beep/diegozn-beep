@@ -13,9 +13,8 @@
 <br>
 
 <p>
-Backend dev en formación | Java · Spring Boot · .NET | Buscando prácticas<br><br>
-Actualmente en mi último ciclo de Computación e Informática, 
-con miras a continuar hacia Ingeniería de Software.
+Estudiante de último ciclo en Computación e Informática, especializándome en desarrollo backend con Java, Spring Boot y .NET.<br><br>
+Con miras a continuar hacia Ingeniería de Software y sumar experiencia como practicante en desarrollo web.
 </p>
 
 <br>
