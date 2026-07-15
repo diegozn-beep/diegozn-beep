@@ -2,7 +2,7 @@
 
 <h1>
   Hola, soy Diego 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img align="right" src="https://i.pinimg.com/736x/46/0a/bd/460abdd5d612f6c36cab264c0b26abbf.jpg" width="35%">
 </h1>
 
 <p>
