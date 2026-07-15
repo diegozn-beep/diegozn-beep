@@ -2,9 +2,7 @@
 
 <br>
 
-<table>
-<tr>
-<td width="65%">
+<img align="right" src="https://i.pinimg.com/736x/4e/f5/41/4ef54185b9f24ecc0c26f092eddc8a12.jpg" width="28%">
 
 <div id="user-content-toc">
   <ul align="center" style="list-style:none">
@@ -30,14 +28,7 @@ con miras a continuar hacia Ingeniería de Software.
 	<a href="https://www.tiktok.com/@messiapp" target="blank"><img src="https://img.shields.io/badge/tiktok-%23000000.svg?style=plastic&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 </p>
 
-</td>
-<td width="35%">
-
-<img src="https://i.pinimg.com/736x/46/0a/bd/460abdd5d612f6c36cab264c0b26abbf.jpg" width="100%">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 ### 🛠 &nbsp;Tecnologías con las que trabajo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
