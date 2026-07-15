@@ -6,7 +6,7 @@
 
 <div id="user-content-toc">
   <ul align="center" style="list-style:none">
-    <summary><h1 style="display:inline-block; border-bottom:none">Hola, soy Diego</h1></summary>
+    <summary><h1 style="display:inline-block; border-bottom:none">Hola, soy Diego 👋</h1></summary>
   </ul>
 </div>
 
