@@ -1,19 +1,20 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" src="https://i.pinimg.com/736x/4e/f5/41/4ef54185b9f24ecc0c26f092eddc8a12.jpg" width="34%" style="margin-top:70px">
 
-<br>
-
-<img align="right" src="https://i.pinimg.com/736x/4e/f5/41/4ef54185b9f24ecc0c26f092eddc8a12.jpg" width="34%" style="margin-top:40px">
 <div id="user-content-toc">
   <ul align="center" style="list-style:none">
     <summary><h1 style="display:inline-block; border-bottom:none">Hola, soy Diego <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1></summary>
   </ul>
 </div>
 
+<br>
+
 <p>
-Backend dev en formación | Java · Spring Boot · .NET | Buscando prácticas<br>
+Backend dev en formación | Java · Spring Boot · .NET | Buscando prácticas<br><br>
 Actualmente en mi último ciclo de Computación e Informática, 
 con miras a continuar hacia Ingeniería de Software.
 </p>
+
+<br>
 
 - 👨‍💻 Actualmente trabajando con Java, Spring Boot y .NET
 - 📚 Aprendiendo React, Git avanzado e inglés técnico
@@ -24,7 +25,6 @@ con miras a continuar hacia Ingeniería de Software.
 	<a href="mailto:rh3828181@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/diegozn-beep"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/diegoo_2004fx/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.tiktok.com/@messiapp" target="blank"><img src="https://img.shields.io/badge/tiktok-%23000000.svg?style=plastic&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 </p>
 
 <br clear="right">
