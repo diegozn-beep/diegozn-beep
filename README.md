@@ -12,18 +12,20 @@
 
 <p>
 Desarrollador backend en formación, con foco en Java Spring Boot y .NET. 
-Actualmente en mi último ciclo de Computación e Informática.
+Actualmente en mi último ciclo de Computación e Informática, 
+con miras a continuar hacia Ingeniería de Software.
 </p>
 
 - 👨‍💻 Actualmente trabajando con Java, Spring Boot y .NET
 - 📚 Aprendiendo React, Git avanzado e inglés técnico
+- 🎓 Próximo paso: convalidar hacia Ingeniería de Software
 - 🎯 Objetivo: entrar como practicante en desarrollo web
 - 📫 Contacto
-
 <p>
 	<a href="mailto:rh3828181@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/diegozn-beep"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/diegoo_2004fx/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.tiktok.com/@messiapp" target="blank"><img src="https://img.shields.io/badge/tiktok-%23000000.svg?style=plastic&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 </p>
 
 <br clear="right">
