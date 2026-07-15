@@ -1,51 +1,46 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" src="https://github.com/diegozn-beep.png" width="30%">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Diego</h1></summary>
-  </ul>
-</div>
+<h1>
+  Hola, soy Diego 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Desarrollador backend en formación</h2></summary>
-  </ul>
-</div>
-
-- 🔭 Actualmente trabajando con **Java, Spring Boot, .NET, SQL Server**
-- 🌱 Aprendiendo **React, Git avanzado e inglés técnico**
-- 💬 Preguntame sobre **Java, Spring Boot, .NET, arquitectura en capas**
-- 📫 Abierto a **prácticas en desarrollo web**
-
-<p align="center">
-  <img title="🔥 racha de commits" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diegozn-beep&theme=dark&hide_border=false" />
-</p>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,mysql,js,git,react,html,css,vscode&perline=10" />
-  </a>
+<p>
+Desarrollador backend en formación, con foco en Java Spring Boot y .NET.
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contacto 🤝</h2></summary>
-  </ul>
-</div>
+- 👨‍💻 Actualmente trabajando con Java, Spring Boot y .NET
+- 📚 Aprendiendo React, Git avanzado e inglés técnico
+- 🎯 Objetivo: entrar como practicante en desarrollo web
 
-<p align="center">
-<a href="https://www.instagram.com/diegoo_2004fx/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+- 📫 Contacto
+<p>
+	<a href="mailto:rh3828181@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/diegozn-beep"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.instagram.com/diegoo_2004fx/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=diegozn-beep&icon=3&color=6)](https://visitcount.itsvg.in)
+### 🛠 &nbsp;Tecnologías con las que trabajo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-</div>
+#### 🖥️ Frameworks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#### 🔧 Herramientas
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegozn-beep&layout=compact)
+
+<br>
+
+<a href="https://komarev.com/ghpvc/?username=diegozn-beep&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=diegozn-beep&style=for-the-badge">
+</a>
