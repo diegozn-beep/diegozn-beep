@@ -6,10 +6,6 @@
   </ul>
 </div>
 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Desarrollador backend en formación</h2></summary>
@@ -17,11 +13,8 @@
 </div>
 
 - 🔭 Actualmente trabajando con **Java, Spring Boot, .NET, SQL Server**
-
 - 🌱 Aprendiendo **React, Git avanzado e inglés técnico**
-
 - 💬 Preguntame sobre **Java, Spring Boot, .NET, arquitectura en capas**
-
 - 📫 Abierto a **prácticas en desarrollo web**
 
 <p align="center">
