@@ -4,9 +4,11 @@
 
 <img align="right" src="https://i.pinimg.com/736x/46/0a/bd/460abdd5d612f6c36cab264c0b26abbf.jpg" width="28%">
 
-<h1>
-  Hola, soy Diego 
-</h1>
+<div id="user-content-toc">
+  <ul align="center" style="list-style:none">
+    <summary><h1 style="display:inline-block; border-bottom:none">Hola, soy Diego</h1></summary>
+  </ul>
+</div>
 
 <p>
 Desarrollador backend en formación, con foco en Java Spring Boot y .NET.
